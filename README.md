@@ -9,6 +9,7 @@ A wrapper for [stream-buffers](https://www.npmjs.com/package/stream-buffers).
 ## Installation
 
 ```bash
+npm install stream-buffers
 bower install purescript-node-stream-buffers
 ```
 
